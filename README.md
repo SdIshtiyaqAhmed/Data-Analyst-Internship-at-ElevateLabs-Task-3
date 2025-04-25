@@ -11,7 +11,7 @@ Here is a brief overview of the SQL for data analysis process:
 - Observe and note the output.
 - Save the queries in a SQL file.
 
-## The SQL Queries and Outputs noted are:
+## SQL Queries and Outputs:
 
 ### Create Indexes:   
 
